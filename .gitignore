@@ -1,0 +1,8 @@
+**/*.pyc
+**/__pycache__
+
+code/**
+!/code/import_file.py
+!/code/main.py
+!/code/my_module
+!/code/my_module/**
